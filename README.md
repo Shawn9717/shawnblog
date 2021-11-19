@@ -18,12 +18,6 @@ The Blog App is an application where users can create their own profiles and als
 
 - Users can svote on the pitch they liked and give it a downvote or upvote.
 
-- Users can sign in to leave a comment.
-
-- Users can register on the website.
-
-
-
 
 ## [Live link]( https://ruggiblog.herokuapp.com/)
 
