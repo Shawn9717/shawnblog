@@ -24,11 +24,7 @@ The Blog App is an application where users can create their own profiles and als
 
 - Users can receive a welcoming email once they sign up.
 
-- Users can view the pitches they have created in their profile page..
 
-- Users can comment on the different pitches and leave feedback. 
-
-- Users can submit a pitch in any category. 
 
 ## [Live link]( https://ruggiblog.herokuapp.com/)
 
