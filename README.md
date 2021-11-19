@@ -41,4 +41,3 @@ There are no known bugs so far,everything is working.
 
 ## LICENCE USED
   This project uses **MIT LICENCE**
-G
