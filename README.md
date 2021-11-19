@@ -22,7 +22,6 @@ The Blog App is an application where users can create their own profiles and als
 
 - Users can register on the website.
 
-- Users can receive a welcoming email once they sign up.
 
 
 
