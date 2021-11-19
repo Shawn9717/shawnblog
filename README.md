@@ -34,7 +34,7 @@ To work with Shawnpitch App you need to have some few prerequisites.
 You can install this app by cloning the repository from this link 
 ## Known Bugs
 There are no known bugs so far,everything is working.
-wqdqwd
+
 
 ## Support and contact details
  If any issues,questions,ideas and concerns are encountered,feel free to contact me at **shawnnjoga@gmail.com**
