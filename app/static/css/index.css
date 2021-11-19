@@ -7,7 +7,7 @@ h2{
   padding: 0;
   color: #F8F8FF;
   border-top: solid #F8F8FF medium;
-  border-bottom: dotted #c0c0f8 thin;
+  border-bottom: dotted #F8F8FF thin;
   width: 600px;
 
 
@@ -15,3 +15,4 @@ h2{
 body{
   background-color:rgb(52, 52, 75);
 }
+z
