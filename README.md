@@ -13,11 +13,6 @@ This project was generated with:
 
 The Blog App is an application where users can create their own profiles and also create their own blogs or quotes. The application also fetches an api that displays random quotes on the landing page. 
 
-## User Story
-
-
-- Users can svote on the pitch they liked and give it a downvote or upvote.
-
 
 ## [Live link]( https://ruggiblog.herokuapp.com/)
 
