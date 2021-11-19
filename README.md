@@ -37,7 +37,7 @@ There are no known bugs so far,everything is working.
 
 
 ## Support and contact details
- If any issues,questions,ideas and concerns are encountered,feel free to contact me at **shawnnjoga@gmail.com** 0r **Shawn8717@prontmail.com** 
+ If any issues,questions,ideas and concerns are encountered,feel free to contact me at **shawnnjoga@gmail.com** 0r **Shawn8717@p 
 
 ## LICENCE USED
   This project uses **MIT LICENCE**
